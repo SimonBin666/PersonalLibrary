@@ -10,4 +10,18 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_main_rename_bookshelf">Rename Bookshelf</string>
+    <string name="menu_main_delete_bookshelf">Delete Bookshelf</string>
+    <string name="menu_main_delete_label">Delete Label</string>
+    <string name="menu_main_rename_label">Rename Label</string>
+    <string name="menu_main_search">Search</string>
+    <string name="menu_main_sort">Sort</string>
+    <string name="sort_choice_dialog_title">Sort By</string>
+    <string-array name="main_sort_dialog">
+        <item>Title</item>
+        <item>Author</item>
+        <item>Publisher</item>
+        <item>PubDate</item>
+    </string-array>
+    <string name="sort_choice_dialog_positive">Sort</string>
 </resources>
